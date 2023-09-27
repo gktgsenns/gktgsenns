@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [Here](Here)
 
-- 📄 Know about my experiences [.NET , Kernel, GUI Developer (Operating System Developer)](.NET , Kernel, GUI Developer (Operating System Developer))
+- 📄 Know about my experiences [.NET , Kernel, GUI Developer (Operating System Developer)](, Kernel, GUI Developer (Operating System Developer))
 
 - ⚡ Fun fact **None**
 
