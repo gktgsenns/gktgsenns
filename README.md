@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gktgsenns&label=Profile%20views&color=0e75b6&style=flat" alt="gktgsenns" /> </p>
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Username : developer0689) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/developer0689) 
 - 🔭 I’m currently working on **Northern Lights OS**
 
 - 🌱 I’m currently learning **Assembly,C,C++ , OS Registers**
